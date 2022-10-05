@@ -1,4 +1,7 @@
 # BRS
+
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/BRS?logo=github&label=Download)](https://github.com/MedPocket/BRS/archive/refs/heads/main.zip)
+
 The Board Review Series (BRS) provides basic knowledge as it relates to clinical situations
 
 ## License
